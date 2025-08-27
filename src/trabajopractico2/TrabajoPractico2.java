@@ -18,6 +18,7 @@ public class TrabajoPractico2 {
         System.out.println("Commit Ema Dupre");
         System.out.println("Participantes: José, Naiara, Claudia, Gonzalo , enzo , asdasd");
         System.out.println("que onda pibes");
+        System.out.println("Holiss (^-^)");
     }
     
 }
